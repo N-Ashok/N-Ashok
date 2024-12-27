@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me ashok@unchay.in  
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have lead product teams for companies. 
+- ⚡ Fun fact: I have led product teams for companies. 
 
 <!---
 N-Ashok/N-Ashok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
